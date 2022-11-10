@@ -1,0 +1,14 @@
+{
+  "searchDescription": "Search for your favorite Pokemon",
+  "notFound": "Pokemon not found",
+  "searchLabel": "Search for a Pokemon",
+  "searchHint": "Enter a Pokemon name or id",
+  "search": "Search",
+  "favorites": "Favorites",
+  "favoritesEmpty": "You have no favorites yet",
+  "pokemonDetailsError": "Error while loading Pokemon details",
+  "height": "Height",
+  "weight": "Weight",
+  "types": "Types",
+  "abilities": "Abilities"
+}
